@@ -1,2 +1,2 @@
 # python-work
-gir repo for python work
+git repo for python work
